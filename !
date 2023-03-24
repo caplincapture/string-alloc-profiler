@@ -1,0 +1,19 @@
+{"Alloc":{"addr":94718921939728,"size":5}}
+{"Alloc":{"addr":94718921939760,"size":48}}
+{"Alloc":{"addr":94718921939872,"size":72}}
+{"Alloc":{"addr":94718921939952,"size":20}}
+{"Alloc":{"addr":94718921939984,"size":6}}
+{"Alloc":{"addr":94718921940016,"size":13}}
+{"Alloc":{"addr":94718921940048,"size":96}}
+{"Freed":{"addr":94718921939872,"size":72}}
+{"Alloc":{"addr":94718921940160,"size":48}}
+{"Alloc":{"addr":94718921940224,"size":16}}
+{"Alloc":{"addr":94718921939872,"size":64}}
+{"Freed":{"addr":94718921940224,"size":16}}
+{"Alloc":{"addr":94718921939680,"size":37}}
+{"Freed":{"addr":94718921939872,"size":64}}
+Unrecognized argument: events.ldjson
+
+Run small --help for more information.
+{"Freed":{"addr":94718921939728,"size":5}}
+{"Freed":{"addr":94718921939760,"size":48}}
